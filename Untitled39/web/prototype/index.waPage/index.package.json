@@ -1,0 +1,14 @@
+{
+	"name": "Untitled39/index.waPage/index.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"file": "/prototype/index.waPage/styles/index.css"
+		},
+        {
+            "file": "prototype/application.css",
+            "path": "WEBFOLDER"
+        }
+	]
+}
